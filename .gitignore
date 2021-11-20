@@ -1,0 +1,3 @@
+*.pyc
+venv_drf_bert
+local_settings.py
